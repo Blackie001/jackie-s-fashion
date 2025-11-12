@@ -70,3 +70,7 @@ Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
 
 
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
+
