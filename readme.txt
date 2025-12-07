@@ -1,5 +1,8 @@
 ## 🌐 Jackie's fashion website
-A short tagline describing what your website does.
+Welcome to Jackie's fashion website, where fashion meets elegance. 
+Shopping made easier for you by purchasing affordable, fashionable clothing that keeps you looking fresh every day.
+
+This website is an online boutique dedicated to premium fashion and timeless style. We curate a selection of beautifully crafted clothing designed to elevate your wardrobe with elegance and comfort. From everyday essentials to statement pieces, our collection blends quality materials with refined design—delivered to you through a smooth, luxurious shopping experience.
 
 ---
 
@@ -9,7 +12,7 @@ A simple website to market my business. buyers can make orders of do window shop
 ---
 
 ## 🚀 Live Demo
-- Live Website: <link-here>
+- https://blackie001.github.io/jackie-s-fashion/
 
 ---
 
@@ -37,6 +40,7 @@ Place your screenshots inside `assets/screenshots` and reference them like this:
 
 ![Homepage](assets/screenshots/homepage.png)
 ![Dashboard](assets/screenshots/dashboard.png)
+
 
 
 
