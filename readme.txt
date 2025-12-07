@@ -1,26 +1,26 @@
-# Jackie's fashion website
+# 🌐 Jackie's fashion website
 A short tagline describing what your website does.
 
 ---
 
-## Overview
+## 📖 Overview
 A simple website to market my business. buyers can make orders of do window shopping
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 - Live Website: <link-here>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Frameworks/Libraries: React / Next.js / TailwindCSS (replace as needed)
 - Backend (optional): Node.js / Express / PHP / Python
 - Database (optional): MongoDB / MySQL / PostgreSQL
 - Hosting: Netlify / Vercel / GitHub Pages / AWS
 
-## Features
+## 📦 Features
 - Responsive and modern UI
 - Fast loading pages
 - Secure authentication (if applicable)
@@ -36,3 +36,4 @@ Place your screenshots inside `assets/screenshots` and reference them like this:
 ![Dashboard](assets/screenshots/dashboard.png)
 
 ## Folder Structure
+
