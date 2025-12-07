@@ -1,76 +1,38 @@
-It is a free HTML CSS template by https://templatesjungle.com/
-You can use this template as a starter template and start building as you require.
+# Jackie's fashion website
+A short tagline describing what your website does.
 
-The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+---
 
-Preview URL: https://demo.templatesjungle.com/kaira/
+## Overview
+A simple website to market my business. buyers can make orders of do window shopping
 
-Get the Full Version here: 
-https://templatesjungle.gumroad.com/l/kaira-bootstrap-ecommerce-template
+---
 
+## Live Demo
+- Live Website: <link-here>
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+---
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Frameworks/Libraries: React / Next.js / TailwindCSS (replace as needed)
+- Backend (optional): Node.js / Express / PHP / Python
+- Database (optional): MongoDB / MySQL / PostgreSQL
+- Hosting: Netlify / Vercel / GitHub Pages / AWS
 
-However, you can remove the credit link by paying for No Attribution version of the template.
+## Features
+- Responsive and modern UI
+- Fast loading pages
+- Secure authentication (if applicable)
+- Dynamic content
+- Mobile-friendly design
+- SEO optimized
+(Add or remove features as needed.)
 
+## Screenshots
+Place your screenshots inside `assets/screenshots` and reference them like this:
 
-RIGHTS
+![Homepage](assets/screenshots/homepage.png)
+![Dashboard](assets/screenshots/dashboard.png)
 
-You are allowed to use it in your personal projects and commercial projects.
-
-You can modify and sell it to your clients.
-
-
-PROHIBITIONS
-
-You cannot remove the credit link which links back to templatesjungle.com.
-
-You are not permitted to resell or redistribute (paid or free) as it is. 
-
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
-
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
-
-You cannot host the download file in your website.
-
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icon-sets.iconify.design/
-
-Bootstrap Framework
-https://getbootstrap.com/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-
-
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
-
+## Folder Structure
